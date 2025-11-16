@@ -1,0 +1,6 @@
+venv/*
+receipts/*
+certs/*
+transcripts/*
+.env
+__pycache__/*
